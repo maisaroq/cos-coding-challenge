@@ -30,6 +30,7 @@
       false,
       "single"
     ],
+    "semicolon": [true, "always"],
     "new-parens": true,
     "no-arg": true,
     "no-bitwise": true,
